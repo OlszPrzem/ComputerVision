@@ -4,4 +4,8 @@ Projekt wykorzystujący wizje geometryczną. Opierający się o rozpoznanie QR c
 
 ![alt text](https://github.com/OlszPrzem/ComputerVision/blob/master/StereoVision_0.1/img_add/Image1.png?raw=true)
 
+![alt text](https://github.com/OlszPrzem/ComputerVision/blob/master/StereoVision_0.1/img_add/Image2.png?raw=true)
+
+![alt text](https://github.com/OlszPrzem/ComputerVision/blob/master/StereoVision_0.1/img_add/calibracja.png?raw=true)
+
 
